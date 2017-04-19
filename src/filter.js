@@ -4,6 +4,7 @@
  * Adds proxying and filtering to an existing Hapi server
  * in order to be able to modify requests based on
  * authorization before they are routed.
+ * 中文：讲过滤和代理添加到现有的服务器，以便在路由之前可以根据权限修改请求
  */
 
 const Querystring = require('querystring');
